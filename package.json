@@ -1,5 +1,5 @@
 {
-  "name": "@1ombfinance/v2-sdk",
+  "name": "1ombv2-sdk",
   "license": "MIT",
   "version": "3.0.1",
   "description": "🛠 An SDK for building applications on top of Uniswap V2",
